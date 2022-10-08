@@ -1,0 +1,5 @@
+payload:
+  - 'ad.com'
+  - '+.ad.com'
+  - 'flurry.com'
+  - '+.flurry.com'
