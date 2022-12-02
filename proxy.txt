@@ -1,5 +1,5 @@
 payload:
-  - 'v2ex.org'
+  - 'v2ex.com'
   - '+.v2ex.com'
   - 'emacs-china.org'
   - '+.emacs-china.org'
