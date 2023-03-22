@@ -3,3 +3,6 @@ payload:
   - '+.v2ex.com'
   - 'emacs-china.org'
   - '+.emacs-china.org'
+  - 'repo.maven.apache.org'
+  - 'repo.apache.maven.org'
+  - 'maven.map.fastly.net'
