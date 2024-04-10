@@ -6,3 +6,4 @@ payload:
   - 'repo.maven.apache.org'
   - 'repo.apache.maven.org'
   - 'maven.map.fastly.net'
+  - 'services.gradle.org'
